@@ -2,6 +2,7 @@
 Project is for performing a remittance from one account to another.
 
 **Technical implementation details**
+
 When starting, the program expects the following information:
 
 1 is entered into the console - make remittances based on input files,
