@@ -73,9 +73,8 @@ public class Remittance {
     private String startRemittance(String fromAccount, String toAccount, BigDecimal sumRemittance) {
         String result;
         AccountsFromAndTo accountsFromAndTo;
-        try {
+        try {   date = LocalDateTime.now();
             if (!fromAccount.equals(toAccount)) {
-                date = LocalDateTime.now();
                 accountsFileService = new AccountsFileService();
                 accountsFromAndTo = accountsFileService.getSumAccounts(fromAccount, toAccount);
                 if (sumRemittance.compareTo(BigDecimal.ZERO) <= 0)
