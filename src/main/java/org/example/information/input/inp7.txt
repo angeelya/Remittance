@@ -1,0 +1,18 @@
+account from: 45456-09777
+account to: 23452-12344
+sum: 500
+
+sum: 500
+sum: 500
+account to: 23452-123456
+
+account from: 45456-09777
+account to: 45456-09777
+sum: 500
+
+account from: 33324-23342
+account to: 23452-12344
+sum: 50
+account from: 11113-04875
+account to: 22266-86676
+sum: 23.550
