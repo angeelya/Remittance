@@ -18,7 +18,7 @@ When starting, the program expects the following information:
 
 Entry point to the program. Implements information input and performs selected operations.
 
--InputFilesService:
+- InputFilesService:
 
 the class performs operations on input files:
 
@@ -30,7 +30,7 @@ moves this file to the archive and creates a list of information about remittanc
 
 deletes file that do not contain information about remittances.
 
--AccountsFileService:
+- AccountsFileService:
 
 the class performs operations on a file containing account data: 
 
@@ -38,7 +38,7 @@ receives a .txt file from the “Information” directory,
 
 extracts information about the amounts accounts of remittances from the file,
 
-updates data on these accounts
+updates data on these accounts.
 
 
 
