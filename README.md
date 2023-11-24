@@ -66,7 +66,17 @@ checks the information and, based on it, determines the status of the remittance
 
 creates a record in the reporting file and records the history of the remittances into the database.
 
+- ServiceDB:
 
+the class performs operations with the database: 
+
+set a connection to mysql, 
+
+checks whether the database exists, 
+
+checks for the presence of a table in the database, 
+
+inserts data into the database.
 
 
 **Project data**
