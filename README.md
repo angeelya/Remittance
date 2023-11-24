@@ -80,7 +80,7 @@ creates a record in the reporting file and records the history of the remittance
 
 the class performs operations with the database: 
 
-set a connection to mysql, 
+sets a connection to mysql, 
 
 checks whether the database exists, 
 
