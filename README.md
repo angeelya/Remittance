@@ -42,6 +42,13 @@ updates data on these accounts.
 
 - ReportFileService:
 
+the class performs operations on the report file:
+
+receives a .txt file from the “Information” directory or creates, 
+
+records information about remittances and their status, 
+
+extracts from the file the entire history of remittances or by date.
 
 
 
