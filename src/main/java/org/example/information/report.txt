@@ -1,0 +1,7 @@
+2023-11-24T04:40:15.831791300 | inp1.txt | remittance from 23452-12344 to 34433-88654 40.25 | Successful
+2023-11-24T04:40:15.847412500 | inp1.txt | remittance from 22344-34232 to 34444-66332 66.20 | Successful
+2023-11-24T04:40:16.097308200 | inp2.txt | remittance from 45456-09777 to 11113-04875 10000.56 | Successful
+2023-11-24T04:40:16.097308200 | inp2.txt | remittance from 34433-88654 to 23452-12344 24.25 | Successful
+2023-11-24T04:40:16.103047300 | inp2.txt | remittance from 34433-88654 to 45533-45555 3.78 | Successful
+2023-11-24T04:51:11.607952600 | inp3.txt | remittance from 45456-09774 to 11113-04434 10000.56 | Error in processing time.One of the accounts does not exist
+2023-11-24T05:12:17.126968800 | inp4.txt | remittance from 22266-86676 to 23345-65455 -234 | Error in processing time.Remittance sum is incorrect2023-11-24T05:41:05.624141700 | inp5.txt | remittance from 22266-86676 to 54444-56565 -3454 | Error in processing time.Remittance sum is incorrect2023-11-24T06:03:23.615838 | inp5.txt | remittance from 22266-86676 to 54444-56565 -3454 | Error in processing time.Remittance sum is incorrect
