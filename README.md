@@ -56,6 +56,17 @@ the class performs operations on strings from files:
 
 gets a string from a file and extracts the necessary data from it.
 
+- Remittance:
+
+the class performs remittances operations:
+
+receives a list of processed information from the input file from the file, 
+
+checks the information and, based on it, determines the status of the remittances,
+
+creates a record in the reporting file and records the history of the remittances into the database.
+
+
 
 
 **Project data**
