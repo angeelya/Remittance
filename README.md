@@ -32,6 +32,14 @@ deletes file that do not contain information about remittances.
 
 -AccountsFileService:
 
+the class performs operations on a file containing account data: 
+
+receives a .txt file from the “Information” directory, 
+
+extracts information about the amounts accounts of remittances from the file,
+
+updates data on these accounts
+
 
 
 
