@@ -88,6 +88,20 @@ checks for the presence of a table in the database,
 
 inserts data into the database.
 
+- Input , AccountsFromAndTo , Report:
+
+classes from the model directory
+store data about:
+ 
+information from input files,
+
+information about accounts,
+ 
+information about the result of the translation.
+
+- InputFilesServiceException, AccountsFileServiceException, ReportFileServiceException, DatabaseServiceException:
+
+classes from the exceptions directory allow to handle atypical situations in classes from the Service directory.
 
 
 
