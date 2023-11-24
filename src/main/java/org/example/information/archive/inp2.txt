@@ -1,0 +1,12 @@
+account from: 45456-09777
+account to: 11113-04875
+sum: 10000.56
+
+account from: 34433-88654
+account to: 23452-12344
+sum: 24.25
+
+account from: 34433-88654
+account to: 45533-45555
+sum: 3.78
+
