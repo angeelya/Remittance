@@ -12,6 +12,29 @@ When starting, the program expects the following information:
 
 4 is entered into the console - exit the program.
 
+**Description of classes**
+
+- Main: 
+
+Entry point to the program. Implements information input and performs selected operations.
+
+-InputFilesService:
+
+the class performs operations on input files:
+
+receives .txt format files from the Input directory, 
+
+extracts information about remittances from the file,
+
+moves this file to the archive and creates a list of information about remittances this file,
+
+deletes file that do not contain information about remittances.
+
+-AccountsFileService:
+
+
+
+
 **Project data**
 The Information folder contains a file with data about the account and its amount, a report file,
 an input directory that stores input files, an archive directory that stores processed files. The program processes files in txt format.
