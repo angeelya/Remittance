@@ -50,7 +50,11 @@ records information about remittances and their status,
 
 extracts from the file the entire history of remittances or by date.
 
+- ProcessingLines:
 
+the class performs operations on strings from files: 
+
+gets a string from a file and extracts the necessary data from it.
 
 
 
